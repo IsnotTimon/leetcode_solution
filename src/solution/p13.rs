@@ -1,5 +1,3 @@
-use std::char;
-
 pub struct Solution;
 
 impl Solution {
